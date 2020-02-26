@@ -13,6 +13,7 @@
 		0BFA1B3C2406321A0071F0C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BFA1B3B2406321A0071F0C7 /* Assets.xcassets */; };
 		0BFA1B3F2406321A0071F0C7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BFA1B3E2406321A0071F0C7 /* Preview Assets.xcassets */; };
 		0BFA1B422406321A0071F0C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BFA1B402406321A0071F0C7 /* LaunchScreen.storyboard */; };
+		0BFA1B4A240655040071F0C7 /* PictureCaptureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BFA1B49240655040071F0C7 /* PictureCaptureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0BFA1B3E2406321A0071F0C7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0BFA1B412406321A0071F0C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0BFA1B432406321A0071F0C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BFA1B49240655040071F0C7 /* PictureCaptureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PictureCaptureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0BFA1B402406321A0071F0C7 /* LaunchScreen.storyboard */,
 				0BFA1B432406321A0071F0C7 /* Info.plist */,
 				0BFA1B3D2406321A0071F0C7 /* Preview Content */,
+				0BFA1B49240655040071F0C7 /* PictureCaptureView.swift */,
 			);
 			path = "Image Picker";
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				0BFA1B36240631F00071F0C7 /* AppDelegate.swift in Sources */,
 				0BFA1B38240631F00071F0C7 /* SceneDelegate.swift in Sources */,
+				0BFA1B4A240655040071F0C7 /* PictureCaptureView.swift in Sources */,
 				0BFA1B3A240631F00071F0C7 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
